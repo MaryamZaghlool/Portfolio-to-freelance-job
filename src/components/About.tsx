@@ -11,7 +11,7 @@ const About: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <div className="prose prose-lg text-right max-w-none">
-               <p className="text-gray-700 mb-6 leading-relaxed"> בוגרת הפקולטה לאמנויות, המחלקה ללשון העברית. אני דוברת עברית שוטפת ובעלת תשוקה לתרגום בין עברית לערבית ולהיפך. יש לי ניסיון רב ב:</p>
+              <p className="text-gray-700 mb-6 leading-relaxed"> אני בוגר/ת הפקולטה לאמנויות, המחלקה ללשון העברית. אני דובר/ת עברית שוטפת ויש לי תשוקה לתרגום בין עברית לאנגלית וערבית, ולהיפך. יש לי ניסיון רב ב:</p>
               <ul className="text-gray-700 mb-6 leading-relaxed">
                 <li> תרגום כתוב של טקסטים ומאמרים.</li>
                 <li>תמלול קבצי שמע והמרתם לטקסטים מדויקים.</li>
