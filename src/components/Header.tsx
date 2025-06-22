@@ -12,14 +12,12 @@ const Header: React.FC = () => {
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-gray-900">תסנים מוחמד</h1>
           </div>
-          
+
           <nav className="hidden md:flex space-x-8 space-x-reverse">
             <a href="#home" className="text-gray-700 hover:text-blue-600 transition-colors">בית</a>
             <a href="#about" className="text-gray-700 hover:text-blue-600 transition-colors">אודותי</a>
-            <a href="#services" className="text-gray-700 hover:text-blue-600 transition-colors">שירותים</a>
-            <a href="#portfolio" className="text-gray-700 hover:text-blue-600 transition-colors">תיק עבודות</a>
+            <a href="#services" className="text-gray-700 hover:text-blue-600 transition-colors md:mx-8">שירותים</a>
             <a href="#testimonials" className="text-gray-700 hover:text-blue-600 transition-colors">המלצות</a>
-            <a href="#contact" className="text-gray-700 hover:text-blue-600 transition-colors">צור קשר</a>
           </nav>
 
           <button

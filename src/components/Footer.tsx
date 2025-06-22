@@ -22,7 +22,7 @@ const Footer: React.FC = () => {
               <li><a href="#home" className="text-gray-300 hover:text-white transition-colors">בית</a></li>
               <li><a href="#about" className="text-gray-300 hover:text-white transition-colors">אודות</a></li>
               <li><a href="#services" className="text-gray-300 hover:text-white transition-colors">שירותים</a></li>
-              <li><a href="#contact" className="text-gray-300 hover:text-white transition-colors">צור קשר</a></li>
+              <li><a href="#testimonials" className="text-gray-300 hover:text-white transition-colors">צור קשר</a></li>
             </ul>
           </div>
 
